@@ -1,0 +1,12 @@
+h1{
+  font-size:21px;
+}
+p{
+  font-size:14px;
+}
+a{
+  color: green;
+}
+a:hover{
+  text-decoration: none;
+}
