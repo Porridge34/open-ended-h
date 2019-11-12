@@ -1,12 +1,15 @@
 h1{
   font-size:21px;
+  background: #00cccc;
+  text-align: center;
 }
 p{
   font-size:14px;
 }
 a{
-  color: green;
+  color: blue;
+  text-decoration: none;
 }
 a:hover{
-  text-decoration: none;
+  text-decoration: strong;
 }
